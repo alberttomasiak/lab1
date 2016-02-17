@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Cantata+One|Imprima);
+
+body
+{
+    --padding-left: 30px;
+}
+h
+{
+    font-family: 'Cantata One', serif;
+}
+
+h1
+{
+    font-size: 3em;
+}
+
+p, ul
+{
+    font-family: 'Imprima', sans-serif;
+}
+
+.ingredienten
+{
+    background-color: beige;
+    display: block;
+    padding-right: 10px;
+    float: left;
+    margin-right: 10px;
+}
+
+h2
+{
+    margin-left: 10px;
+    padding-top: 10px;
+    margin-top: 0;
+}
+.bereiding
+{
+    width: 67%;
+    display: block;
+    float: right;
+}
+
+.wrapper
+{
+    width: 100%;
+}
+img
+{
+    margin-bottom: 20px;        
+}
